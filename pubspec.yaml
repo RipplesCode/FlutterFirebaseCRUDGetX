@@ -1,0 +1,24 @@
+name: flutter_firestore_crud_getx
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.1.4
+  cloud_firestore: ^2.1.0
+  image_picker: ^0.7.5
+  image_cropper: ^1.4.0
+  flutter_image_compress: ^1.0.0
+  flutter: 
+    sdk: flutter
+
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
